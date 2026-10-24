@@ -2,7 +2,7 @@
 
 > Artificial Intelligence Researcher · Low-Level Systems Architect · Open-Source Contributor
 > University of Information Technology (UIT), VNU-HCM
-> Official Portfolio: [nhutnhd.github.io](https://nhutnhd.github.io) | LinkedIn: [linkedin.com/in/dangnhutnguyen](https://www.linkedin.com/in/dangnhutnguyen/) | Email: [penciltalk0910@gmail.com](mailto:penciltalk0910@gmail.com)
+> Official Portfolio: [nhutnhd.github.io](https://nhutnhd.github.io) | LinkedIn: [linkedin.com/in/dangnhutnguyen](https://www.linkedin.com/in/dangnhutnguyen/) | Email: [dangnhutnguyen.work@gmail.com](mailto:dangnhutnguyen.work@gmail.com)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nhutnhd.github.io-0969da?style=flat-square&logo=googlechrome&logoColor=white)](https://nhutnhd.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dangnhutnguyen-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dangnhutnguyen/)
@@ -17,6 +17,7 @@ I am an AI researcher and software systems architect specializing in efficient d
 
 My research and engineering practice focuses on:
 - Hardware-aware neural network compression (INT8 post-training quantization, structured pruning, and low-rank tensor decomposition).
+- Neural Machine Translation (NMT), sequence-to-sequence Transformer architectures, and subword tokenization models.
 - Speculative decoding acceleration, draft model distillation, and parameter-efficient fine-tuning on resource-constrained hardware.
 - First-principles mathematical implementation of deep learning algorithms without opaque autograd abstractions.
 - Local-first, high-concurrency software architectures with strict memory safety and deterministic invariants.
@@ -40,14 +41,23 @@ My research and engineering practice focuses on:
 | Knowledge Operating System | [neuralwork-knowledge-os](https://github.com/nhutnhd/neuralwork-knowledge-os) | TypeScript 5 Monorepo, Node.js Native SQLite WAL, FTS5 BM25 | Production · 5 Tests |
 | Scientific Computing | [conservative-force-simulation](https://github.com/nhutnhd/conservative-force-simulation) | Runge-Kutta RK45 ODE Solver, SymPy, CustomTkinter GUI, MATLAB | Production · 5 Tests |
 | Interactive Pedagogy | [interactive-ml-learning-platform](https://github.com/nhutnhd/interactive-ml-learning-platform) | Next.js 16 Turbopack, React 19, Tailwind CSS, KaTeX | Production · Built |
+| Olympic AI Curriculum | [voai-olympic-ai-course](https://github.com/nhutnhd/voai-olympic-ai-course) | 38 Jupyter Notebooks, M0-M7 Curriculum, PyTorch, Scikit-Learn | Production · 4 Tests |
+| Neural Machine Translation | [zh-vi-transformer-nmt](https://github.com/nhutnhd/zh-vi-transformer-nmt) | PyTorch Transformer Seq2Seq, Google SentencePiece, SacreBLEU, Beam Search | Production · 3 Tests |
+| Applied ML Coursework | [applied-ml-coursework-labs](https://github.com/nhutnhd/applied-ml-coursework-labs) | Pima Diabetes Classification, Exploratory Data Analysis, ROC-AUC Tuning | Production · 2 Tests |
+| Autoregressive Generation | [pixelbudget-autoregressive-generation](https://github.com/nhutnhd/pixelbudget-autoregressive-generation) | CPU-Validated Pixel Budget Allocation, Autoregressive Synthesis | Production · 3 Tests |
+| Algorithmic Problem Solving | [apcs-algorithm-problem-solving](https://github.com/nhutnhd/apcs-algorithm-problem-solving) | Prime Sieve, Number Theory, Twin Primes, Taylor Series, Dynamic Programming | Production · 4 Tests |
 | Prompt Engineering | [PrompTEA](https://github.com/nhutnhd/PrompTEA) | Language Model Prompt Optimization Framework using NLP & ML | Production |
 | Productivity Systems | [Focumia](https://github.com/nhutnhd/Focumia) | Client-side Deep Work Pomodoro & Task Hierarchy Workspace | Production |
 | MIL Learning OS | [dailynox](https://github.com/nhutnhd/dailynox) | UNESCO Media & Information Literacy Framework Implementation | Production |
 | Minimalist Workspace | [writedownia](https://github.com/nhutnhd/writedownia) | Distraction-free Browser Journal, Notes & Spaced Repetition Decks | Production |
 | Security Telemetry Workstation | [security-research-telemetry-workstation](https://github.com/nhutnhd/security-research-telemetry-workstation) | 29 Core Tools, Payment Telemetry, C2 Framing, WinAPI PEB Traversal | Archived Reference · 24 Tests |
 | Distributed C2 Architecture | [modular-c2-distributed-framework](https://github.com/nhutnhd/modular-c2-distributed-framework) | Modular C2, AES-256-GCM Framing, Multi-Session Manager, Web UI Dashboard | Archived Reference · 18 Tests |
-| Credential Forensics & DPAPI | [infostealer-mechanics-defense-lab](https://github.com/nhutnhd/infostealer-mechanics-defense-lab) | Chromium DPAPI v10/v20, AES-GCM Key Derivation, SQLite Vault Triage, EDR | Archived Reference · Defensive Lab |
+| Credential Forensics & DPAPI | [infostealer-mechanics-defense-lab](https://github.com/nhutnhd/infostealer-mechanics-defense-lab) | Chromium DPAPI v10/v20, AES-GCM Key Derivation, SQLite Vault Triage, EDR | Archived Reference · 3 Tests |
 | Activity Telemetry & Binary PE | [system-activity-telemetry-auditor](https://github.com/nhutnhd/system-activity-telemetry-auditor) | Clean Re-implementation, KLG1 Binary Overlay Protocol, PE Header Inspection | Archived Reference · 5 Tests |
+| Web Target Recon & Simulation | [web-recon-simulation-framework](https://github.com/nhutnhd/web-recon-simulation-framework) | 147 API Endpoints Catalog, Fastify Local Sandbox Simulator, DOM Modeling | Archived Reference · 4 Tests |
+| Web Pentest Intelligence Suite | [web-pentest-intelligence-suite](https://github.com/nhutnhd/web-pentest-intelligence-suite) | 14 Autonomous Defensive Agent Skills, MITRE ATT&CK & CAPEC Alignment | Archived Reference · 2 Tests |
+| Security Audit Assessment Reports| [penetration-testing-audit-reports](https://github.com/nhutnhd/penetration-testing-audit-reports) | Sanitized Forensic Pentest Reports, RealIELTS Assessment, Turnstile DOM Triage| Archived Reference · 3 Tests |
+| Checkout Testing & Automation | [automation-and-checking-tools](https://github.com/nhutnhd/automation-and-checking-tools) | Luhn Checksum Verification, Headless Browser Checkout Telemetry | Archived Reference · 2 Tests |
 | Defensive Code Analysis | [pyobfuscate-static-inspector](https://github.com/nhutnhd/pyobfuscate-static-inspector) | AST Control Flow Graph Recovery, Constant Propagation Sandbox | Archived Reference · 51 Tests |
 | Telemetry & Network Framing | [c2-protocol-simulation-framework](https://github.com/nhutnhd/c2-protocol-simulation-framework) | Authenticated 6-byte Header Framing, AES-256-GCM, Anti-Replay Guard | Archived Reference · 3 Tests |
 
@@ -58,27 +68,10 @@ My research and engineering practice focuses on:
 - **LogicPT–GT**: Research on formal logic, problem solving, structured thinking, and automated problem transformation.  
   [Read Manuscript (PDF)](https://drive.google.com/file/d/1NYF5sJFUI2zlBwd7wX-CcVM0hKcQ95es/view)
 
-- **AIAPE–Education**: Framework investigating artificial intelligence, computer science education, and pedagogical feedback loops.  
-  [Access Research Assets & Documentation](https://drive.google.com/drive/folders/1sKKR-0nAkkW8pxi9hwmYsg33vJEzTD71)
-
-- **Concentrated Solar Thermal Modeling & Tracking System**: Dual-axis solar tracking concentrator coupling geometric optics, differential calculus, and empirical thermodynamic flux validation.  
-  [Access Dataset & Field Measurements](https://drive.google.com/drive/folders/1g0kjru5iUEEIMqUf0hc3hUX7bRBMZUkr)
-
 ---
 
-## 4. Technical Arsenal
+## 4. Engineering & Research Principles
 
-- **Languages**: Python (3.11+, 3.12+), Modern C++ (C++20, C++23), TypeScript, JavaScript (ES6+), C, SQL, LaTeX.
-- **Machine Learning & AI**: PyTorch, Hugging Face Transformers, BitsAndBytes, Active Learning, Model Quantization (INT8 PTQ, NF4), LoRA, Scikit-learn, NumPy, SymPy.
-- **Backend & Systems**: FastAPI, SQLAlchemy Async, Node.js, SQLite (WAL Mode, FTS5), Docker, PostgreSQL, Linux, Git.
-- **Frontend & Visualization**: Next.js (App Router, Turbopack), React 19, Three.js, React Three Fiber, Tailwind CSS, KaTeX, Chart.js.
-- **Testing & Quality Assurance**: Pytest, Vitest, TypeScript Strict Mode, Static AST Analysis, Benchmarking & Profiling.
-
----
-
-## 5. Contact & Professional Inquiries
-
-- **LinkedIn**: [linkedin.com/in/dangnhutnguyen](https://www.linkedin.com/in/dangnhutnguyen/)
-- **GitHub**: [github.com/nhutnhd](https://github.com/nhutnhd)
-- **Portfolio**: [nhutnhd.github.io](https://nhutnhd.github.io)
-- **Email**: [penciltalk0910@gmail.com](mailto:penciltalk0910@gmail.com)
+1. **First-Principles Derivation**: Never rely on opaque black-box abstractions when understanding the physical limits of hardware (CPU cycle boundaries, L1/L2/L3 cache line alignment `alignas(64)`, and kernel syscall transitions).
+2. **Deterministic Reproducibility**: Every research repository features end-to-end automated unit, integration, and stress tests to guarantee zero regressions.
+3. **Responsible Open-Source Governance**: All offensive security, binary exploitation, and credential telemetry research modules are strictly maintained as public read-only educational archives with comprehensive synthetic data quarantine and formal responsible disclosure policies.
