@@ -31,16 +31,20 @@ My research and engineering practice focuses on:
 | LLM Acceleration | [t4-speculative-decoding](https://github.com/nhutnhd/t4-speculative-decoding) | Qwen Speculative Decoding, BitsAndBytes NF4/INT8, LoRA Distillation | Production · GPU Validated |
 | LLM Latency Profiling | [gemma4-t4-inference-benchmarks](https://github.com/nhutnhd/gemma4-t4-inference-benchmarks) | Gemma Quantization, Random Forest Latency Predictor, Ollama Harness | Production · 15 Tests |
 | First-Principles AI | [neural-observatory](https://github.com/nhutnhd/neural-observatory) | From-scratch Neural Network (NumPy / Pure Python), HTML5 Canvas Inspection | Production · 5 Tests |
+| Interpretable Neural Nets | [neural-network-from-scratch](https://github.com/nhutnhd/neural-network-from-scratch) | Analytical Backpropagation, Finite-Difference Gradient Check ($< 10^{-6}$), MNIST | Production · 4 Tests |
 | Active Learning | [adaptive-sample-selection](https://github.com/nhutnhd/adaptive-sample-selection) | Uncertainty Sampling, SmallCNN Budget Framework, LaTeX Manuscript | Production · 49 Tests |
 | Memory Scheduling | [wari-adaptive-inference](https://github.com/nhutnhd/wari-adaptive-inference) | WARI-L Working-set Layer-Granule Residual CPU Inference Policy | Production · 7 Tests |
 | High-Concurrency Systems | [boconic-book-sharing-platform](https://github.com/nhutnhd/boconic-book-sharing-platform) | FastAPI 0.110+, SQLAlchemy 2.0 Async, aiogram 3.x, Docker, PostgreSQL | Production · 66 Tests |
 | 3D Heritage Engineering | [sac-viet-heritage-studio](https://github.com/nhutnhd/sac-viet-heritage-studio) | Next.js 15, React 19, Three.js, React Three Fiber, SQLite WAL | Production · 23 Tests |
 | Knowledge Operating System | [neuralwork-knowledge-os](https://github.com/nhutnhd/neuralwork-knowledge-os) | TypeScript 5 Monorepo, Node.js Native SQLite WAL, FTS5 BM25 | Production · 5 Tests |
-| Defensive Code Analysis | [pyobfuscate-static-inspector](https://github.com/nhutnhd/pyobfuscate-static-inspector) | AST Control Flow Graph Recovery, Constant Propagation Sandbox | Production · 51 Tests |
+| Defensive Code Analysis | [pyobfuscate-static-inspector](https://github.com/nhutnhd/pyobfuscate-static-inspector) | AST Control Flow Graph Recovery, Constant Propagation Sandbox | Archived Reference · 51 Tests |
+| Telemetry & Network Framing | [c2-protocol-simulation-framework](https://github.com/nhutnhd/c2-protocol-simulation-framework) | Authenticated 6-byte Header Framing, AES-256-GCM, Anti-Replay Guard | Archived Reference · 3 Tests |
 | Scientific Computing | [conservative-force-simulation](https://github.com/nhutnhd/conservative-force-simulation) | Runge-Kutta RK45 ODE Solver, SymPy, CustomTkinter GUI, MATLAB | Production · 5 Tests |
 | Interactive Pedagogy | [interactive-ml-learning-platform](https://github.com/nhutnhd/interactive-ml-learning-platform) | Next.js 16 Turbopack, React 19, Tailwind CSS, KaTeX | Production · Built |
 | Prompt Engineering | [PrompTEA](https://github.com/nhutnhd/PrompTEA) | Language Model Prompt Optimization Framework using NLP & ML | Production |
 | Productivity Systems | [Focumia](https://github.com/nhutnhd/Focumia) | Client-side Deep Work Pomodoro & Task Hierarchy Workspace | Production |
+| MIL Learning OS | [dailynox](https://github.com/nhutnhd/dailynox) | UNESCO Media & Information Literacy Framework Implementation | Production |
+| Minimalist Workspace | [writedownia](https://github.com/nhutnhd/writedownia) | Distraction-free Browser Journal, Notes & Spaced Repetition Decks | Production |
 
 ---
 
