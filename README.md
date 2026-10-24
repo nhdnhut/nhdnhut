@@ -4,6 +4,16 @@
 > University of Information Technology (UIT), Vietnam National University, Ho Chi Minh City  
 > Portfolio: https://nhdnhut.github.io | LinkedIn: https://www.linkedin.com/in/dangnhutnguyen | Email: 26521522@gm.uit.edu.vn
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-nhdnhut.github.io-111111?style=flat-square)](https://nhdnhut.github.io)
+[![Institution](https://img.shields.io/badge/UIT-VNU--HCM-005696?style=flat-square)](https://en.uit.edu.vn)
+[![Degree](https://img.shields.io/badge/Degree-B.Sc._in_Artificial_Intelligence-2ea44f?style=flat-square)](https://en.uit.edu.vn)
+[![ViSEF](https://img.shields.io/badge/ViSEF-First_Prize_2023-black?style=flat-square)](#2-selected-honors-and-academic-awards)
+[![VIFOTEC](https://img.shields.io/badge/VIFOTEC-Second_Prize_2023-black?style=flat-square)](#2-selected-honors-and-academic-awards)
+[![City Physics Olympiad](https://img.shields.io/badge/City_Olympiad-Second_Prize_2026-black?style=flat-square)](#2-selected-honors-and-academic-awards)
+[![Email](https://img.shields.io/badge/Email-26521522%40gm.uit.edu.vn-D14836?style=flat-square)](mailto:26521522@gm.uit.edu.vn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dangnhutnguyen-0A66C2?style=flat-square)](https://www.linkedin.com/in/dangnhutnguyen)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0009--6305--478X-A6CE39?style=flat-square)](https://orcid.org/0009-0009-6305-478X)
+
 ---
 
 ## 1. Executive Summary
@@ -44,7 +54,7 @@ My research methodology combines mathematical rigor with hardware-level systems 
 | **Olympic AI Curriculum** | [voai-olympic-ai-course](https://github.com/nhdnhut/voai-olympic-ai-course) | 38 Jupyter Notebooks, M0-M7 Curriculum, PyTorch, Scikit-Learn | 4 Tests Passed |
 | **Active Learning** | [adaptive-sample-selection](https://github.com/nhdnhut/adaptive-sample-selection) | Uncertainty Sampling, SmallCNN Budget Framework, LaTeX Manuscript | 49 Tests Passed |
 | **First-Principles AI** | [neural-observatory](https://github.com/nhdnhut/neural-observatory) | From-scratch Neural Network (NumPy / Pure Python), HTML5 Canvas Inspection | 5 Tests Passed |
-| **Interpretable Neural Nets** | [neural-network-from-scratch](https://github.com/nhdnhut/neural-network-from-scratch) | Analytical Backpropagation, Finite-Difference Gradient Check ($< 10^{-6}$) | 4 Tests Passed |
+| **Interpretable Neural Nets** | [neural-network-from-scratch](https://github.com/nhdnhut/neural-network-from-scratch) | Analytical Backpropagation, Finite-Difference Gradient Check (\lt 10^{-6}) | 4 Tests Passed |
 | **Autoregressive Generation** | [pixelbudget-autoregressive-generation](https://github.com/nhdnhut/pixelbudget-autoregressive-generation) | CPU-Validated Pixel Budget Allocation, Autoregressive Synthesis | 3 Tests Passed |
 | **Applied ML Coursework** | [applied-ml-coursework-labs](https://github.com/nhdnhut/applied-ml-coursework-labs) | Pima Diabetes Classification, Exploratory Data Analysis, ROC-AUC Tuning | 2 Tests Passed |
 | **Interactive Pedagogy** | [interactive-ml-learning-platform](https://github.com/nhdnhut/interactive-ml-learning-platform) | Next.js 16 Turbopack, React 19, Tailwind CSS, KaTeX | Production Built |
