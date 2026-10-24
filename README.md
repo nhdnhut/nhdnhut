@@ -16,7 +16,7 @@
 
 ---
 
-## 1. Executive Summary
+## Executive Summary
 
 I am an Artificial Intelligence undergraduate and systems researcher specializing in Large Language Model (LLM) acceleration, neural network compression, hardware-aware execution policies, first-principles deep learning, and secure telecommunication protocol telemetry.
 
@@ -27,15 +27,15 @@ My research methodology combines mathematical rigor with hardware-level systems 
 
 ---
 
-## 2. Selected Honors and Academic Awards
+## Selected Honors and Academic Awards
 
 | Year | Honor / Distinction | Awarding Body / Competition | Field |
 | :--- | :--- | :--- | :--- |
-| **2026** | **Second Prize** (Giai Nhi) | City-Level Academic Excellence Competition | Physics |
-| **2024** | **Encouragement Prize** (Giai Khuyen khich) | 24/7 Academic Olympic Competition | Physics |
-| **2023** | **First Prize** (Giai Nhat) | Provincial Vietnam Science & Engineering Fair (ViSEF) | Applied Physics & Energy Systems |
-| **2023** | **Second Prize** (Giai Nhi) | Provincial VIFOTEC Technical Innovation Competition | Engineering & Control Systems |
-| **2023** | **Encouragement Prize** (Giai Khuyen khich) | 24/7 Academic Olympic Competition | Physics |
-| **2022** | **Third Prize** (Giai Ba) | Provincial Vietnam Science & Engineering Fair (ViSEF) | Engineering Mechanics |
-| **2022** | **Encouragement Prize** (Giai Khuyen khich) | Provincial VIFOTEC Technical Innovation Competition | Technical Innovation |
+| **2026** | **Second Prize** | City-Level Academic Excellence Competition | Physics |
+| **2024** | **Encouragement Prize** | 24/7 Academic Olympic Competition | Physics |
+| **2023** | **First Prize** | Provincial Vietnam Science & Engineering Fair (ViSEF) | Applied Physics & Energy Systems |
+| **2023** | **Second Prize** | Provincial VIFOTEC Technical Innovation Competition | Engineering & Control Systems |
+| **2023** | **Encouragement Prize** | 24/7 Academic Olympic Competition | Physics |
+| **2022** | **Third Prize** | Provincial Vietnam Science & Engineering Fair (ViSEF) | Engineering Mechanics |
+| **2022** | **Encouragement Prize** | Provincial VIFOTEC Technical Innovation Competition | Technical Innovation |
 | **2019** | **National Youth Delegate** | 6th National Children's Forum of Vietnam | Youth Representation & Policy |
