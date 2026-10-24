@@ -20,6 +20,7 @@ My research and engineering practice focuses on:
 - Speculative decoding acceleration, draft model distillation, and parameter-efficient fine-tuning on resource-constrained hardware.
 - First-principles mathematical implementation of deep learning algorithms without opaque autograd abstractions.
 - Local-first, high-concurrency software architectures with strict memory safety and deterministic invariants.
+- Defensive security telemetry, binary protocol framing, and operating system internals research (strictly archived reference models).
 
 ---
 
@@ -37,14 +38,18 @@ My research and engineering practice focuses on:
 | High-Concurrency Systems | [boconic-book-sharing-platform](https://github.com/nhutnhd/boconic-book-sharing-platform) | FastAPI 0.110+, SQLAlchemy 2.0 Async, aiogram 3.x, Docker, PostgreSQL | Production · 66 Tests |
 | 3D Heritage Engineering | [sac-viet-heritage-studio](https://github.com/nhutnhd/sac-viet-heritage-studio) | Next.js 15, React 19, Three.js, React Three Fiber, SQLite WAL | Production · 23 Tests |
 | Knowledge Operating System | [neuralwork-knowledge-os](https://github.com/nhutnhd/neuralwork-knowledge-os) | TypeScript 5 Monorepo, Node.js Native SQLite WAL, FTS5 BM25 | Production · 5 Tests |
-| Defensive Code Analysis | [pyobfuscate-static-inspector](https://github.com/nhutnhd/pyobfuscate-static-inspector) | AST Control Flow Graph Recovery, Constant Propagation Sandbox | Archived Reference · 51 Tests |
-| Telemetry & Network Framing | [c2-protocol-simulation-framework](https://github.com/nhutnhd/c2-protocol-simulation-framework) | Authenticated 6-byte Header Framing, AES-256-GCM, Anti-Replay Guard | Archived Reference · 3 Tests |
 | Scientific Computing | [conservative-force-simulation](https://github.com/nhutnhd/conservative-force-simulation) | Runge-Kutta RK45 ODE Solver, SymPy, CustomTkinter GUI, MATLAB | Production · 5 Tests |
 | Interactive Pedagogy | [interactive-ml-learning-platform](https://github.com/nhutnhd/interactive-ml-learning-platform) | Next.js 16 Turbopack, React 19, Tailwind CSS, KaTeX | Production · Built |
 | Prompt Engineering | [PrompTEA](https://github.com/nhutnhd/PrompTEA) | Language Model Prompt Optimization Framework using NLP & ML | Production |
 | Productivity Systems | [Focumia](https://github.com/nhutnhd/Focumia) | Client-side Deep Work Pomodoro & Task Hierarchy Workspace | Production |
 | MIL Learning OS | [dailynox](https://github.com/nhutnhd/dailynox) | UNESCO Media & Information Literacy Framework Implementation | Production |
 | Minimalist Workspace | [writedownia](https://github.com/nhutnhd/writedownia) | Distraction-free Browser Journal, Notes & Spaced Repetition Decks | Production |
+| Security Telemetry Workstation | [security-research-telemetry-workstation](https://github.com/nhutnhd/security-research-telemetry-workstation) | 29 Core Tools, Payment Telemetry, C2 Framing, WinAPI PEB Traversal | Archived Reference · 24 Tests |
+| Distributed C2 Architecture | [modular-c2-distributed-framework](https://github.com/nhutnhd/modular-c2-distributed-framework) | Modular C2, AES-256-GCM Framing, Multi-Session Manager, Web UI Dashboard | Archived Reference · 18 Tests |
+| Credential Forensics & DPAPI | [infostealer-mechanics-defense-lab](https://github.com/nhutnhd/infostealer-mechanics-defense-lab) | Chromium DPAPI v10/v20, AES-GCM Key Derivation, SQLite Vault Triage, EDR | Archived Reference · Defensive Lab |
+| Activity Telemetry & Binary PE | [system-activity-telemetry-auditor](https://github.com/nhutnhd/system-activity-telemetry-auditor) | Clean Re-implementation, KLG1 Binary Overlay Protocol, PE Header Inspection | Archived Reference · 5 Tests |
+| Defensive Code Analysis | [pyobfuscate-static-inspector](https://github.com/nhutnhd/pyobfuscate-static-inspector) | AST Control Flow Graph Recovery, Constant Propagation Sandbox | Archived Reference · 51 Tests |
+| Telemetry & Network Framing | [c2-protocol-simulation-framework](https://github.com/nhutnhd/c2-protocol-simulation-framework) | Authenticated 6-byte Header Framing, AES-256-GCM, Anti-Replay Guard | Archived Reference · 3 Tests |
 
 ---
 
@@ -63,7 +68,7 @@ My research and engineering practice focuses on:
 
 ## 4. Technical Arsenal
 
-- **Languages**: Python (3.11+, 3.12+), Modern C++ (C++20, C++23), TypeScript, JavaScript (ES6+), SQL, LaTeX.
+- **Languages**: Python (3.11+, 3.12+), Modern C++ (C++20, C++23), TypeScript, JavaScript (ES6+), C, SQL, LaTeX.
 - **Machine Learning & AI**: PyTorch, Hugging Face Transformers, BitsAndBytes, Active Learning, Model Quantization (INT8 PTQ, NF4), LoRA, Scikit-learn, NumPy, SymPy.
 - **Backend & Systems**: FastAPI, SQLAlchemy Async, Node.js, SQLite (WAL Mode, FTS5), Docker, PostgreSQL, Linux, Git.
 - **Frontend & Visualization**: Next.js (App Router, Turbopack), React 19, Three.js, React Three Fiber, Tailwind CSS, KaTeX, Chart.js.
