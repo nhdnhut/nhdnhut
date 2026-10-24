@@ -2,7 +2,7 @@
 
 > Artificial Intelligence Researcher and Systems Architect  
 > University of Information Technology (UIT), Vietnam National University, Ho Chi Minh City  
-> Portfolio: https://nhdnhut.github.io | LinkedIn: https://www.linkedin.com/in/dangnhutnguyen | Email: dangnhutnguyen.work@gmail.com
+> Portfolio: https://nhdnhut.github.io | LinkedIn: https://www.linkedin.com/in/dangnhutnguyen | Email: 26521522@gm.uit.edu.vn
 
 ---
 
